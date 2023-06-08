@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.exe
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.deps.json
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.runtimeconfig.json
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.dll
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.pdb
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.dll
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\refint\Example001_Hello_World.dll
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.pdb
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Учеба\Знакомство с языком програмирования С#\Lesson_one\Example001_Hello_World\obj\Debug\net6.0\ref\Example001_Hello_World.dll
