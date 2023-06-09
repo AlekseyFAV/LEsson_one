@@ -1,6 +1,4 @@
-﻿using System;
-
-int distance = 10000;
+﻿int distance = 10000;
 int count = 0;
 int firstFriendSpeed = 1;
 int secondFriendSpedd = 2;
